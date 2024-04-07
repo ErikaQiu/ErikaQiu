@@ -12,6 +12,12 @@
 
 ### 🧰 ToolBox
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" alt="python logo" width="50" height="50"        /><img src="https://github.com/devicons/devicon/blob/master/icons/rstudio/rstudio-original.svg" alt="rstudio logo" width="50" height="50"                   /> <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql logo" width="50" height="50"                />  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB logo" width="50" height="50"            />    <img src="https://cdn.worldvectorlogo.com/logos/tableau-logo-1.svg" alt="Tableau logo" width="50" height="50">
+
+---
+
+### 📊 Github Stat
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ErikaQiu)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 
 
